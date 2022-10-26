@@ -126,7 +126,7 @@ function intro_05() {
 
 var todosElementos = document.getElementById("todosElementos");
 // console.log(window.location.host);
-  if (window.location.host != "leonardopirchio.com.br") {
+  if (window.location.host != "leonardopirchio.github.io") {
     todosElementos.style.display = "none"; carFundo.style.display = "none";
   }
 
